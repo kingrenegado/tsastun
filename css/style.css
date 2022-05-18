@@ -1,0 +1,27 @@
+.color_morado{
+    color: #5c0c84;
+}
+.morado1{
+    background-color: #6f42c1;
+    color:antiquewhite
+}
+.correo{
+    color:#8c10b2 
+}
+.boton_contacto{
+    background-color: #341f49;
+    color:antiquewhite
+}
+.color_nav{
+    background-color: white;
+    color:#341f49;
+}
+
+
+nav ul li a:hover {
+    color: #555;
+  }
+  
+.nav-link:hover{
+    color:  #57c42a 
+}
