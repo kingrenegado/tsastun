@@ -25,3 +25,13 @@ nav ul li a:hover {
 .nav-link:hover{
     color:  #57c42a 
 }
+
+nav{
+    font-family: 'Mukta', sans-serif;
+}
+.texto{
+    background: -webkit-linear-gradient(blue,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato;       
+}
